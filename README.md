@@ -7,5 +7,7 @@
 | Node2Vec  | [KDD 2016][node2vec: Scalable Feature Learning for Networks](https://www.kdd.org/kdd2016/papers/files/rfp0218-groverA.pdf) | [【Graph Embedding】Node2Vec：算法原理，实现和应用](https://zhuanlan.zhihu.com/p/56542707)  |
 配置环境：
 ![Image test](https://github.com/luuyeee/pic/blob/main/images/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231123171252.png)
-
+运行结果：
+Deepwalk运行结果：
+![Image test]()
 
